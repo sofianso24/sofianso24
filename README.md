@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sofiane Bahmed</h1>
 <h3 align="center">I design websites then i bring them to life, that's what i do </h3>
-<img src="https://res.cloudinary.com/devq06psf/image/upload/v1702389360/githubCover_wm5gi7.png" alt="github cover" >  </img>
+<img src="https://res.cloudinary.com/devq06psf/image/upload/v1702390908/gitHub_cover_fqqbgn.png" >  </img>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofianso24" alt="sofianso24" /></a> </p>
 
