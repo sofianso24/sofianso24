@@ -1,5 +1,5 @@
 
-<img src="https://res.cloudinary.com/devq06psf/image/upload/v1702390908/gitHub_cover_fqqbgn.png" >  </img>
+<img src="https://res.cloudinary.com/devq06psf/image/upload/v1702401999/GithubCover_1_aku7ug.png" >  </img>
 <h1 align="center">Hi 👋, I'm Sofiane Bahmed</h1>
 <h3 align="center">I design websites then i bring them to life, that's what i do </h3>
 
