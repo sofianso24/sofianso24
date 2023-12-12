@@ -2,8 +2,6 @@
 <img src="https://res.cloudinary.com/devq06psf/image/upload/v1702401999/GithubCover_1_aku7ug.png" >  </img>
 <h1 align="center">Hi 👋, I'm Sofiane Bahmed</h1>
 <h3 align="center">I design websites then i bring them to life, that's what i do </h3>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 - 💬 Ask me about **MERN stack**
 
