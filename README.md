@@ -1,5 +1,5 @@
 
-<video src="https://res.cloudinary.com/devq06psf/video/upload/v1718448154/13302178-hd_1920_1080_30fps_eeshdt.mp4" autoplay muted loop >  </video>
+<img src="https://res.cloudinary.com/devq06psf/image/upload/v1718446044/Group_59_ffz40h.png" >  </img>
 <h1 align="center">Hi 👋, I'm Sofiane Bahmed</h1>
 <h3 align="center">I design websites then i bring them to life, that's what i do </h3>
 
